@@ -19,4 +19,4 @@ layout: default
 
 ### MY AIM IS JUST TO BECOME A *SOFTWARE DEVELOPER*.Will continuosly acquire knowledge(Great words by Dr.APJ Abdul kalam) and HELP PEOPLE💪💪.
 
-## *I have written a (https://rakshith6404.github.io/2022/02/24/blog/)[Blog] About me .Kindly refer to it . 😊*
+## *I have written a [Blog](https://rakshith6404.github.io/2022/02/24/blog/) About me .Kindly refer to it . 😊*

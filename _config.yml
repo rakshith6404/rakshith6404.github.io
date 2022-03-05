@@ -26,6 +26,7 @@ projects:
     archived: false
     forks: true
     projects:
+      -"rakshith6404"
     # - repo-name
 
 # social_media:
